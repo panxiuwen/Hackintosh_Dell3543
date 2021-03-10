@@ -10,7 +10,9 @@ Display: 1920 × 1080 Full HD display
 
 Audio: ALC255/ALC3234 (See Issue)
 
-Wireless: DW1550/BCM94352HMB
+Wireless1: DW1550/BCM94352HMB (EFI_brcm.rar)
+
+Wireless2: Intel 7260ac (EFI_itlwm.rar)
 
 Network: Realtek RTL8106E
 
