@@ -48,7 +48,7 @@ Load Legacy Option Rom Enable
 
 To enable Native macOS HiDPI, use [one-key-hidpi](https://github.com/xzhih/one-key-hidpi)
 
-If you want to enter debug mode, please add -v and keepsyms=1 to boot-args.
+If you want to disable debug mode, please remove -v and keepsyms=1 in boot-args.
 
 If you want to enter the system directly without selecting the startup item, please change ShowPicker into Disabled.
 
