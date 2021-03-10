@@ -20,7 +20,7 @@ SDCardreader: Realtek RTS 5170(See Issue)
 
 Opencore Version: 0.66
 
-System Edition: Mojave and Catalina is well tested.
+System Edition: Mojave and Catalina is well tested, I use Mojave.
 
 # My Bios Setting
 
@@ -50,15 +50,15 @@ To enable Native macOS HiDPI, use [one-key-hidpi](https://github.com/xzhih/one-k
 
 If you want to enter debug mode, please add -v and keepsyms=1 to boot-args.
 
-If you want to enter the system directly without selecting the startup item, please turn ShowPicker into Disabled
+If you want to enter the system directly without selecting the startup item, please change ShowPicker into Disabled.
 
 # Issue
 
-AppleALC not work perfect, see AppleALC layout-id test results and find the suitable layout-id for you.(Use USB Headphones can avoid this problem)
+AppleALC not work perfect, see AppleALC layout-id test results and find the suitable layout-id for you.Using USB Headphones maybe avoid this problem.
 
 SDCardreader not work, if it's important to you, try to fix it use [Sinetek-rtsx](https://github.com/cholonam/Sinetek-rtsx).
 
-Don't try to press FN + F11. This will cause the backlight of the screen to turn off. I don't know how to fix this problem
+Don't try to press FN + F11, this will cause the backlight of the screen to turn off.
 
 # AppleALC layout-id test results
 
@@ -76,6 +76,8 @@ Don't try to press FN + F11. This will cause the backlight of the screen to turn
 
 The previous work of [meikeeit](https://github.com/meikeeit/Hackintosh_Dell3543)
 
-On the basis of his work, I simplified the unnecessary kext and added the 0d6d patch to solve the sleep problem, Thanks (OC little)[ https://github.com/daliansky/OC-little/]
+On the basis of his work, I simplified the unnecessary files and added some patch to solve some problem.
 
-And customized USB port, Thanks [Hackintool](https://github.com/headkaze/Hackintool)
+Thanks (OC little)[ https://github.com/daliansky/OC-little/].
+
+I customized USB port, Thanks (Hackintool)[https://github.com/headkaze/Hackintool].
