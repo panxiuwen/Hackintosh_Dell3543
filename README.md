@@ -78,6 +78,6 @@ The previous work of [meikeeit](https://github.com/meikeeit/Hackintosh_Dell3543)
 
 On the basis of his work, I simplified the unnecessary files and added some patch to solve some problem.
 
-Thanks (OC little)[ https://github.com/daliansky/OC-little/].
+Thanks [OC little](https://github.com/daliansky/OC-little).
 
-I customized USB port, Thanks (Hackintool)[https://github.com/headkaze/Hackintool].
+I customized USB port, Thanks [Hackintool](https://github.com/headkaze/Hackintool).
