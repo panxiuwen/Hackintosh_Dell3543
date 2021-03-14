@@ -74,15 +74,15 @@ Don't try to press FN + F11, this will cause the backlight of the screen to turn
 
 # AppleALC layout-id test results
 
-03:Headphones only have accompaniment
+03: Headphones only have accompaniment
 
-13:Headphones only have accompaniment and microphone is useless
+13: Headphones only have accompaniment and microphone is useless
 
-17:same as 03
+17: same as 03
 
-27:microphone is useless
+27: microphone is useless
 
-28:same as 03
+28: same as 03
 
 # Credit
 
