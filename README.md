@@ -18,6 +18,18 @@ Network: Realtek RTL8106E
 
 SDCardreader: Realtek RTS 5170(See Issue)
 
+# What work
+
+Sleep/Wake
+
+Displays the remaining battery capacity
+
+Backlight brightness adjustment
+
+Bluetooth (You need to pair successfully once in win system)
+
+External HDMI display(4K unsupported)
+
 # Bootloader
 
 Opencore Version: 0.66
